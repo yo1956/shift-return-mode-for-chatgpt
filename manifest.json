@@ -1,0 +1,10 @@
+{
+  "name": "Shift + Return Mode For ChatGPT",
+  "description": "You can use Shift + Return to submit your messages in ChatGPT.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/popup.html"
+  }
+}
+
